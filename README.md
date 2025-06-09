@@ -46,7 +46,7 @@ Se preferir rodar diretamente pelo código-fonte, siga os passos abaixo de acord
    
 7. Rode o programa:
    bash
-   python app_backup.py
+   python Carteira10.py
    
 
 ---
@@ -73,7 +73,7 @@ Se preferir rodar diretamente pelo código-fonte, siga os passos abaixo de acord
    
 6. Rode o programa:
    bash
-   python3 app_backup.py
+   python3 Carteira10.py
    
 
 ---
