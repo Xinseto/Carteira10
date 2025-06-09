@@ -16,7 +16,7 @@ Se você usa *Windows* e quer evitar instalações e códigos, basta baixar o pr
 Depois de baixar:
 
 1. Extraia o .zip (se necessário)  
-2. Dê dois cliques no arquivo executável  (caso e seu windows acuse vírus, não se preocupe pois não contém vírus, é apenas um alerta da própria Microsoft para toda e qualquer aplicação que não possua licença da Microsoft) 
+2. Dê dois cliques no arquivo executável  (caso seu windows acuse vírus, não se preocupe pois não contém vírus, é apenas um alerta da própria Microsoft para toda e qualquer aplicação que não possua licença da Microsoft) 
 3. Pronto! A interface será aberta
 
 ---
