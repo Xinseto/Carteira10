@@ -81,5 +81,5 @@ Se preferir rodar diretamente pelo código-fonte, siga os passos abaixo de acord
 ## ❗ Observações
 
 - Certifique-se de ter o *Python 3.8 ou superior* instalado.  
-- O arquivo principal do projeto é app_backup.py.  
+- O arquivo principal do projeto é Carteira10.py.  
 - Verifique se o nome do arquivo de dependências está correto: requirements.txt.
