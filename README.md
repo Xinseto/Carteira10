@@ -11,7 +11,7 @@ Ideal para quem quer acompanhar seus investimentos sem complicações técnicas.
 
 Se você usa *Windows* e quer evitar instalações e códigos, basta baixar o programa já pronto:
 
-🔗 [*Clique aqui para baixar o executável*](https://1drv.ms/u/c/e13c9c1865635857/ER92N5nHHZREvK9tC0O3mXUBg42xKYlrypIyK2ynwUHocw?e=cqP8Vd)
+🔗 [*Clique aqui para baixar o executável*](https://1drv.ms/u/c/e13c9c1865635857/EeJWMCe0luhHubRSiZd2sEoB86VgToeHD45zt1_UE6yQzw?e=ZsC47n)
 
 Depois de baixar:
 
